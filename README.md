@@ -1,2 +1,2 @@
 # dishiot
-code form the Dish Network workshops
+code for the Dish Network workshops
